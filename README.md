@@ -1,6 +1,8 @@
 # Bank-Loan-of-Customers
 Data Analyst Project
 
+# Excel file you can download from here: https://docs.google.com/spreadsheets/d/1Vx5zpCkl3IPM3H8YsurvrN6MQpaxRk1x/editusp=sharing&ouid=112667082132371227601&rtpof=true&sd=true
+
 # KPI's
 
 1.Year wise loan amount Stats
