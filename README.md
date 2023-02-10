@@ -1,7 +1,8 @@
 # Bank-Loan-of-Customers
 Data Analyst Project
 
-#KPI's
+# KPI's
+
 1.Year wise loan amount Stats
 
 2.Grade and sub grade wise revol_bal
