@@ -1,5 +1,5 @@
 # Bank-Loan-of-Customers
-Data Analyst Project
+Excel & Tableau Visualization
 
 # KPI's
 
